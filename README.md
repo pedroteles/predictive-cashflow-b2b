@@ -45,9 +45,9 @@ git clone https://github.com/pedroteles/predictive-cashflow-b2b.git
 ```bash   
 pip install -r requirements.txt
 ```
-4. Execute os notebooks para acompanhar o pipeline de dados, engenharia de features e o treinamento do modelo.
+3. Execute os notebooks para acompanhar o pipeline de dados, engenharia de features e o treinamento do modelo.
    
-Nota: O pipeline foi validado com a base pública Finance Factoring da IBM.
+Nota: O pipeline foi validado com a base pública Finance Factoring da IBM. (data/WA_Fn-UseC_-Accounts-Receivable.csv)
 
 📈 Próximos Passos
 Ingestão de variáveis macroeconômicas (Selic, inflação).
