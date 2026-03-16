@@ -42,8 +42,10 @@ Através de *Window Functions* em SQL com ordenação cronológica estrita, o mo
 git clone https://github.com/pedroteles/predictive-cashflow-b2b.git
 ```
 2. Instale as dependências:
-   pip install -r requirements.txt
-3. Execute os notebooks para acompanhar o pipeline de dados, engenharia de features e o treinamento do modelo.
+```bash   
+pip install -r requirements.txt
+```
+4. Execute os notebooks para acompanhar o pipeline de dados, engenharia de features e o treinamento do modelo.
    
 Nota: O pipeline foi validado com a base pública Finance Factoring da IBM.
 
